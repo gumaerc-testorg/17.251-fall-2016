@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Assignments & Exams
 uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 ---

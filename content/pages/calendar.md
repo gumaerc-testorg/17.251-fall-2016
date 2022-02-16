@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: Calendar
 uid: e93cc6a3-4cfb-544b-8da6-3d30ecea19e8
 ---
@@ -38,7 +40,7 @@ Introduction
 {{< tdopen >}}
 2
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Unidimensional spatial model
 {{< tdclose >}}
 {{< tdopen >}}
@@ -59,7 +61,7 @@ Roundtable
 {{< tdopen >}}
 4
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Constitutional origins of Congress
 {{< tdclose >}}
 {{< tdopen >}}
@@ -80,7 +82,7 @@ Roundtable
 {{< tdopen >}}
 6
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Origin and development of Congress
 {{< tdclose >}}
 {{< tdopen >}}
@@ -110,7 +112,7 @@ No class
 {{< tdopen >}}
 9
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Congressional candidates
 {{< tdclose >}}
 {{< tdopen >}}
@@ -140,7 +142,7 @@ Roundtable
 {{< tdopen >}}
 12
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Congressional voters
 {{< tdclose >}}
 {{< tdopen >}}
@@ -167,7 +169,7 @@ _Written portion of redistricting project due today_
 {{< tdopen >}}
 14
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Regulating congressional elections
 {{< tdclose >}}
 {{< tdopen >}}
@@ -203,7 +205,7 @@ Midterm
 {{< tdopen >}}
 17
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Multidimensional spatial model
 {{< tdclose >}}
 {{< tdopen >}}
@@ -233,7 +235,7 @@ Multidimensional spatial model
 {{< tdopen >}}
 20
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Congressional parties and leadership
 {{< tdclose >}}
 {{< tdopen >}}
@@ -269,7 +271,7 @@ _Problem set 2 due_
 {{< tdopen >}}
 23
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="2" >}}
 Congressional committees
 {{< tdclose >}}
 {{< tdopen >}}
@@ -290,7 +292,7 @@ Roundtable
 {{< tdopen >}}
 25
 {{< tdclose >}}
-{{< tdopen >}}
+{{< tdopen rowspan="3" >}}
 Rules of the chamber, roll call voting
 {{< tdclose >}}
 {{< tdopen >}}

@@ -1,6 +1,9 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: 2015 Midterm Exam
 uid: 42aa3208-3ea8-08c6-542a-03a1822bdd80
