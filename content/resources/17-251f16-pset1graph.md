@@ -12,6 +12,7 @@ learning_resource_types:
 ocw_type: OCWImage
 parent_title: Problem Sets
 parent_type: CourseSection
+parent_uid: 9d0e3421-6889-a9c4-15e6-9d4843868b4a
 resourcetype: Image
 title: 17-251F16-PSet1Graph.jpg
 uid: 0364288f-9356-356b-7569-93eadc613139

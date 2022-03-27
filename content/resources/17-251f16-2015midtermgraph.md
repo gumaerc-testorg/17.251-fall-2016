@@ -12,6 +12,7 @@ learning_resource_types: []
 ocw_type: OCWImage
 parent_title: 2015 Midterm Exam
 parent_type: CourseSection
+parent_uid: 42aa3208-3ea8-08c6-542a-03a1822bdd80
 resourcetype: Image
 title: 17-251F16-2015MidtermGraph.jpg
 uid: 32ff39a5-92be-0b97-bba5-37b8f4246d6c
