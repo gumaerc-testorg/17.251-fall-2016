@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains instructions for completing the 2015 midterm.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams
@@ -24,9 +25,9 @@ The accompanying figure shows the ideal points of the 11 members of the legislat
 
 What is the optimal level of sanctions against Schmiran that the president could propose, such that the sanctions could not be overturned by Congress?
 
-![A graph showing the ideal points of the 11 members of the legislature with respect to their preferred levels of sanctions.]({{< resource_file 32ff39a5-92be-0b97-bba5-37b8f4246d6c >}})
+{{< resource 32ff39a5-92be-0b97-bba5-37b8f4246d6c >}}
 
-[_Download a larger version of the graph_]({{< baseurl >}}/resources/17-251f16-2015midtermgraph)
+{{% resource_link 32ff39a5-92be-0b97-bba5-37b8f4246d6c "_Download a larger version of the graph_" %}}
 
 Part II: Short Answers (24%)
 ----------------------------

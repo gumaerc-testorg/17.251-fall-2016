@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information about how to complete assignment 1.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams

@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This page contains information about how to complete the redistricting
+  exercise.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams

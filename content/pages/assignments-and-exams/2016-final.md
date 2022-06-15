@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains instructions for completing the 2016 final.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams

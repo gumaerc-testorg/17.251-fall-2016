@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This page contains information for completing the final paper.
 learning_resource_types: []
 ocw_type: CourseSection
 parent_title: Assignments & Exams
