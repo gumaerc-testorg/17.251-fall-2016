@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A graph showing the ideal points of the marginal tax rate for people
     who make a million dollars a year.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 2016 Midterm Exam
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 17-251F16-2016MidtermGraph.jpg
 uid: 01f4a6f9-e80b-1a5c-27c1-6737df5a8d37
 ---
 A graph drawn by the professor for use in the 2016 midterm question.
-

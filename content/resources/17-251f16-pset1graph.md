@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A graph showing government spending along two dimensions, guns and butter.
 learning_resource_types:
 - Assignments
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: Problem Sets
 parent_type: CourseSection

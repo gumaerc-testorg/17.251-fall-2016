@@ -9,10 +9,10 @@ image_metadata:
   credit: This image is in the public domain.
   image-alt: A photo of the United States House of Representatives.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 resourcetype: Image
 title: 17251-f16-congress.jpg
 uid: 707cea0c-9bea-2703-4ca1-228ed38192c6
 ---
 President Obama giving a speech to a joint session of Congress.
-

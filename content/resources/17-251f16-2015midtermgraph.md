@@ -9,6 +9,7 @@ image_metadata:
   image-alt: A graph showing the ideal points of the 11 members of the legislature
     with respect to their preferred levels of sanctions.
 learning_resource_types: []
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWImage
 parent_title: 2015 Midterm Exam
 parent_type: CourseSection
@@ -18,4 +19,3 @@ title: 17-251F16-2015MidtermGraph.jpg
 uid: 32ff39a5-92be-0b97-bba5-37b8f4246d6c
 ---
 A graph drawn by the professor for use in the 2015 midterm question.
-
