@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page contains information for completing the final paper.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: Final Paper
 uid: 9a16c395-1b02-4688-b679-47da4bb524c8

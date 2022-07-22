@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains instructions for completing the 2016 final.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: 2016 Final
 uid: 94ef2bdc-1f4c-8e1c-4d54-6c44c3e6536e
@@ -16,6 +20,6 @@ _The second fact is that,. . . one of the two major parties, the Republican Part
 
 Throughout the semester, you have been following the legislative process in Congress. Including your contributions to the weekly roundtable. Write an essay in which you address the following questions / points:
 
-1.  What evidence can you provide from the 114th Congress that is consistent with Mann and Ornstein's argument about the two sources of dysfunction in Congress?
+1.  What evidence can you provide from the 114{{< sup "th" >}} Congress that is consistent with Mann and Ornstein's argument about the two sources of dysfunction in Congress?
 2.  What evidence can you provide that is contrary to the argument made by Mann and Ornstein?
-3.  Pick one of the reform proposals that Mann and Ornstein propose in the chapter about reforming political institutions. Based on what you have observed in the 114th Congress, how effective would that proposal be in overcoming legislative dysfunction in the current Congress?
+3.  Pick one of the reform proposals that Mann and Ornstein propose in the chapter about reforming political institutions. Based on what you have observed in the 114{{< sup "th" >}} Congress, how effective would that proposal be in overcoming legislative dysfunction in the current Congress?

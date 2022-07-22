@@ -1,6 +1,11 @@
 ---
 content_type: page
+description: This page contains information about how to complete the redistricting
+  exercise.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: Redistricting Exercise
 uid: 021b0948-71d8-0ea6-fd7f-df2ba7d8def8

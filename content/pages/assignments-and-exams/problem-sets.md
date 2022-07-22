@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This page contains information about how to complete the problem sets.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: Problem Sets
 uid: 9d0e3421-6889-a9c4-15e6-9d4843868b4a
@@ -30,4 +34,4 @@ B1. Show the policy outcome if Member A is the agenda-setter on the Guns dimensi
 
 B2. The answer for B1 will be a point in the policy space in the figure. Show the win set against the policy that results from answer B1.
 
-![A graph showing government spending along two dimensions, guns and butter.]({{< resource_file 0364288f-9356-356b-7569-93eadc613139 >}})
+{{< resource 0364288f-9356-356b-7569-93eadc613139 >}}

@@ -1,6 +1,10 @@
 ---
 content_type: page
+description: This section contains instructions for completing the 2016 midterm exam.
+learning_resource_types: []
+ocw_type: CourseSection
 parent_title: Assignments & Exams
+parent_type: CourseSection
 parent_uid: 4739f3af-9c22-b62e-a941-5d1e047d6450
 title: 2016 Midterm Exam
 uid: a1610327-d32e-85b2-b2b1-53141c5d46c8
@@ -13,9 +17,9 @@ _**Directions: Do the following problem**_
 
 The president and a one-chamber Congress with 13 members are engaged in a legislative battle: What the marginal tax rate should be for people who make a million dollars a year. The ideal points are arrayed as follows. _P_ denotes the ideal point of the president and ф indicates the location of the status quo. Show on the figure the location of the tax rate that could pass Congress and survive a presidential veto that would also give the median voter the greatest utility in light of the fact that the bill must survive a veto. Describe why you chose that location for the tax rate.
 
-![A graph showing the ideal points of the marginal tax rate for people who make a million dollars a year.]({{< resource_file 01f4a6f9-e80b-1a5c-27c1-6737df5a8d37 >}})
+{{< resource 01f4a6f9-e80b-1a5c-27c1-6737df5a8d37 >}}
 
-[_Download a larger version of the graph_]({{< baseurl >}}/resources/17-251f16-2016midtermgraph)
+{{% resource_link 01f4a6f9-e80b-1a5c-27c1-6737df5a8d37 "_Download a larger version of the graph_" %}}
 
 Part 2: Short Answers (24%)
 ---------------------------
