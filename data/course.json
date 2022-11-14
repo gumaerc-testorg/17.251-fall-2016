@@ -2,7 +2,8 @@
   "term": "Fall",
   "year": "2016",
   "level": [
-    "Undergraduate"
+    "Undergraduate",
+    "Graduate"
   ],
   "topics": [
     [
@@ -43,6 +44,7 @@
     "Activity Assignments",
     "Presentation Assignments"
   ],
-  "site_uid": "93af7b72-24a0-4a5e-bb74-41c9edb41118",
+  "site_uid": "93d27e2e-f8ef-4634-9d00-6d748bc3dfec",
+  "short_id": "17.251-fall-2016",
   "title": "Course Metadata"
 }
