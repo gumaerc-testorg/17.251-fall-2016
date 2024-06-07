@@ -2,6 +2,7 @@
 content_type: resource
 description: ''
 file: /courses/17-251-congress-and-the-american-political-system-i-fall-2016/0364288f9356356b756993eadc613139_17-251F16-PSet1Graph.jpg
+file_size: 12389
 file_type: image/jpeg
 image_metadata:
   caption: ''
