@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: A graph drawn by the professor for use in the 2016 midterm question.
-file: /courses/17-251-congress-and-the-american-political-system-i-fall-2016/01f4a6f9e80b1a5c27c16737df5a8d37_17-251F16-2016MidtermGraph.jpg
+file: /ol-ocw-studio-app/courses/17-251-congress-and-the-american-political-system-i-fall-2016/01f4a6f9e80b1a5c27c16737df5a8d37_17-251F16-2016MidtermGraph.jpg
 file_size: 9720
 file_type: image/jpeg
 image_metadata:
