@@ -22,6 +22,6 @@ You should have a topic chosen by the week following the midterm (week 17).
 Sources
 -------
 
-This should be a term paper. The expectation is that you will use a combination of sources that range from congressional documents to {{% resource_link "299d86be-7369-4182-a8ca-16b380b8d8e3" "_CQ Weekly_" %}} to books and journal articles. Each paper will be different in the details. There is an essay at the back of _Analyzing Congress_ about doing congressional research—it is recommended you consult that essay.
+This should be a term paper. The expectation is that you will use a combination of sources that range from congressional documents to [_CQ Weekly_](https://library.cqpress.com/cqweekly/) to books and journal articles. Each paper will be different in the details. There is an essay at the back of _Analyzing Congress_ about doing congressional research—it is recommended you consult that essay.
 
 Due: Class 28
