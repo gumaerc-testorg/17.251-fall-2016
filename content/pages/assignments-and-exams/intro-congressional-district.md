@@ -32,4 +32,4 @@ Come to class 2 prepared to give a 3-to-5 minute political introduction to your 
 
 *   **The political future of the district**
 
-The best sources of information for this assignment can be found in the current editions of the {{% resource_link "b3b771da-7e19-46c8-a5b9-9d550097574b" "_Almanac of American Politics_" %}} and {{% resource_link "eda1112d-67d1-4c1b-b481-11f33baa839a" "_Politics in America_" %}}.
+The best sources of information for this assignment can be found in the current editions of the [_Almanac of American Politics_](https://www.thealmanacofamericanpolitics.com/) and [_Politics in America_](https://us.sagepub.com/en-us/nam/politics-in-america-2014/book240572).
